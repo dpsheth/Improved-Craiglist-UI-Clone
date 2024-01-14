@@ -1,0 +1,17 @@
+.button {
+  -fx-background-color: white;
+  -fx-border-radius: 30;
+  -fx-font-size: 24;
+  -fx-padding: 5;
+  -fx-font-style: italic;
+  -fx-text-fill: blue;
+  -fx-border-style: solid;
+}
+
+.root {
+  -fx-background-color: white;
+}
+
+.menu .label {
+  -fx-text-fill: blue;
+}
