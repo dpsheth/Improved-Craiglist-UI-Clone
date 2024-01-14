@@ -1,0 +1,44 @@
+.button {
+  -fx-background-color: aliceblue;
+  -fx-font-size: 18;
+  -fx-padding: 10;
+  -fx-text-fill: Black;
+  -fx-border-style: solid;
+}
+
+.root {
+  -fx-background-color: white;
+}
+
+.label {
+  -fx-font-size: 18;
+}
+
+.menu .label {
+  -fx-text-fill: blue;
+}
+
+.center-box {
+    -fx-alignment: center;
+    -fx-spacing: 10;
+    -fx-padding: 20;
+    -fx-background-color: #f0f0f0;
+}
+
+/* Discussion Forum specific styles */
+.discussion-forum-label {
+    -fx-font-size: 22pt;
+}
+
+/* Threads specific styles */
+.thread-title-label {
+    -fx-font-size: 22pt;
+}
+
+.thread-description-label {
+    -fx-font-size: 22pt;
+}
+
+.comments-text-area {
+    -fx-prompt-text-fill: #a0a0a0;
+}
