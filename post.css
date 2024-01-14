@@ -1,0 +1,19 @@
+.button {
+  -fx-background-color: aliceblue;
+  -fx-font-size: 18;
+  -fx-padding: 10;
+  -fx-text-fill: Black;
+  -fx-border-style: solid;
+}
+
+.root {
+  -fx-background-color: white;
+}
+
+.label {
+  -fx-font-size: 18;
+}
+
+.menu .label {
+  -fx-text-fill: blue;
+}
